@@ -1,8 +1,7 @@
 
-**What is a Linear Search?**
+**What is a Kruskal’s Algorithm?**
 
-A linear search, also known as a sequential search, is a method of finding an element within a list. It checks each element of the list sequentially until a match is found or the whole list has been searched.
-
+•	Kruskal’s Algorithm is a famous greedy algorithm. It is used for finding the Minimum Spanning Tree (MST) of a given graph. To apply Kruskal’s algorithm, the given graph must be weighted, connected and undirected. 
 ## Example
 ![alt text](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Binary-Search.png)
 
